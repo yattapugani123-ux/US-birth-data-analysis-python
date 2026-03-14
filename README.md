@@ -71,25 +71,17 @@ The project includes the following visualizations:
 
 ---
 
-## Imports the correct for your project are: 
-```python
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-```
-## Import the dataset
-```python
-df = pd.read_csv("US_births_1994-2003_CDC_NCHS.csv")
-print(df.head())
-```
 
-| year | month | date_of_month | day_of_week | births |
-|------|------|---------------|-------------|--------|
-| 1994 | 1 | 1 | 6 | 8096 |
-| 1994 | 1 | 2 | 7 | 7772 |
-| 1994 | 1 | 3 | 1 | 10142 |
-| 1994 | 1 | 4 | 2 | 11248 |
-| 1994 | 1 | 5 | 3 | 11053 |
+
+
+
+
+
+
+
+
+
+
 
 ## Author
 
