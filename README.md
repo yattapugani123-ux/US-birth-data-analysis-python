@@ -82,13 +82,14 @@ import seaborn as sns
 df = pd.read_csv("US_births_1994-2003_CDC_NCHS.csv")
 print(df.head())
 ```
+---
 |year| month| date_of_month| day_of_week| births|
 |......|......|........|........|.........|
 |0| 1994| 1| 2| 7| 8006|
 |2|1994| 1| 3| 1| 11363|
 |3| 1994| 1| 4| 2| 13032|
 |4|1994| 1| 5| 3| 12558|
-
+---
 
 ## Author
 
