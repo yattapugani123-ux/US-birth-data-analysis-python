@@ -70,20 +70,7 @@ The project includes the following visualizations:
 - Jupyter Notebook
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Author
 
-Shiva  
+Ganesh reddy  
 Data Analytics Enthusiast
